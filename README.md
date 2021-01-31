@@ -1,3 +1,7 @@
+## Live Demo: [https://think-piece-bb53e.web.app/](https://think-piece-bb53e.web.app/)
+
+## Think Piece Blog App With Firebase Database
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
